@@ -1,6 +1,12 @@
 <p align="Left">
 <h1> Stock Management System with Inventory 📦</h1>
 </p>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/Maleesanat01/StockManagementSystem/raw/main/add-stock.jpg" height="300" width="450" style="margin-right: 10px;">
+    <img src="https://github.com/Maleesanat01/StockManagementSystem/raw/main/viewStock.jpg" height="300" width="450" style="margin-right: 10px;">
+</div>
+
+
 
 ## Description
 
